@@ -36,7 +36,6 @@ a:hover {
 }
 .content {
 	margin: 15px 225px;
-	padding-top: 125px;
 	overflow: hidden;
 }
 @media screen and (max-width: 768px) {
